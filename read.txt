@@ -1,0 +1,2 @@
+Been learning how to create a neural network from scratch, will keep finding stuff
+and Bard/GPT for assistance in how make one from Scratch until I am able to.
